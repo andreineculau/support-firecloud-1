@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+set -x
 
 # USAGE:
 # - declare SF_NPX_ARGS
